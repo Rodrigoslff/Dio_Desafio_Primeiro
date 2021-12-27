@@ -1,0 +1,5 @@
+O Sprint Backlog é uma lista de tarefas que o Scrum Team se compromete a fazer em um Sprint. Os itens do Sprint Backlog são extraídos do Product Backlog, pela equipe, com base nas prioridades definidas pelo Product Owner e a percepção da equipe sobre o tempo que será necessário para completar as várias funcionalidades.
+
+Cabe a equipe determinar a quantidade de itens do Product Backlog que serão trazidos para o Sprint Backlog, já que é ela quem irá se comprometer a implementá-los.
+
+Durante um Sprint, o Scrum Master mantém o Sprint Backlog atualizando-o para refletir que tarefas são completadas e quanto tempo a equipe acredita que será necessário para completar aquelas que ainda não estão prontas. A estimativa do trabalho que ainda resta a ser feito no Sprint é calculada diariamente e colocada em um gráfico, resultando em um Sprint Burndown Chart.
